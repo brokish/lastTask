@@ -1,0 +1,7 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Swoop Test Validation","Sushi Ordering and Registration","","0","1","0","0","0"
+"Swoop Test Validation","Sushi Ordering and Registration","User registration validation","0","0","0","1","0"
+"Swoop Test Validation","Sushi Ordering and Registration","Ascending price sorting validation","0","0","0","1","0"
+"Swoop Test Validation","Sushi Ordering and Registration","Price range validation","0","0","1","0","0"
+"Swoop Test Validation","Sushi Ordering and Registration","Validation of prices in descending order","0","0","0","1","0"
+"Swoop Test Validation","Sushi Ordering and Registration","Validation of sharing on Facebook","0","0","0","1","0"

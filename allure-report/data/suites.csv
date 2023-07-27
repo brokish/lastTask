@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Wed Jun 14 20:05:56 GET 2023","Wed Jun 14 20:05:56 GET 2023","5","final project","Test","SwoopTest","SwoopTest","setup","setup",""
+"skipped","Wed Jun 14 20:05:56 GET 2023","Wed Jun 14 20:05:56 GET 2023","4","final project","Test","SwoopTest","SwoopTest","fifthMethod","fifthMethod","Verify the user registration process"
+"skipped","Wed Jun 14 20:06:01 GET 2023","Wed Jun 14 20:06:01 GET 2023","0","final project","Test","SwoopTest","SwoopTest","secondMethod","secondMethod","Verify the sorting of prices in ascending order"
+"passed","Wed Jun 14 20:06:41 GET 2023","Wed Jun 14 20:06:48 GET 2023","6365","Default Suite","finalProject2","SwoopTest","SwoopTest","firstMethod","firstMethod","Verify the price range and search functionality"
+"skipped","Wed Jun 14 20:06:04 GET 2023","Wed Jun 14 20:06:04 GET 2023","1","final project","Test","SwoopTest","SwoopTest","thirdMethod","thirdMethod","Verify the sorting of prices in descending order"
+"skipped","Wed Jun 14 20:06:02 GET 2023","Wed Jun 14 20:06:02 GET 2023","1","final project","Test","SwoopTest","SwoopTest","fourthMethod","fourthMethod","Verify the sharing functionality on Facebook"
